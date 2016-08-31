@@ -1,5 +1,6 @@
 Reservoir
 =========
+Reservoir 是一个 用于在硬盘上快速存取数据的库,类似于 SharedPreferences 和数据库的结合
 
 Reservoir is a simple library for Android that allows you to easily serialize and cache your objects to disk using key/value pairs.
 
